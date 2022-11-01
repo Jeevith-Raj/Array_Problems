@@ -8,3 +8,8 @@ https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/
 
 
 ***side notes***
+
+
+***‣ Vectors are array but the size and capacity automatically changes and you don't want to  prefien it***
+
+***‣AUTO is a keyowrd in cpp,which automatically detects the integer type***
