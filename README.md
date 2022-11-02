@@ -1,6 +1,6 @@
 # Array_Problems
 
-**here is the list of array problems in solved this repo will provide array questions and code in cpp These questions are taken from "Geeks for Geeks" and the link is given beloww**
+**here is the list of array problems in solved this repo will provide array questions and code in cpp These questions are taken from "Geeks for Geeks" and the link is given below**
 
 https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/
 
